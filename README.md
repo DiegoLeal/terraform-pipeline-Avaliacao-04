@@ -1,7 +1,7 @@
 ### Efetue o clone do repositório para seu workspace 
 
 ```bash
-https://github.com/DiegoLeal/EventesMicro-Pipeline-Terraform.git
+https://github.com/DiegoLeal/terraform-pipeline-Avaliacao-04.git
 ```
 
 ### Crie seu proprio projeto no GitHub e envie o repositório clonado para seu repositório no GitHub.
